@@ -3,7 +3,6 @@
 `Windows XP`与`32位操作系统` 最终支持版本为 [`10.0.7`](#vmwareworkstation-10)。  
 **自2024年5月14日、版本 17.5.2 开始，VMware Workstation Pro 将免费供个人用户使用。详情请 [点击此处](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)**  
 **自2024年11月11日、版本 17.6.2 开始，VMware Workstation Pro 将免费供所有用户使用。详情请 [点击此处](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)**  
-**（非常感谢[@Sertwen](https://github.com/Sertwen/VMwareWorkstation)更新的这一部分，我懒得再写了，在此直接用了）**
 
 <hr>
 
@@ -33,6 +32,11 @@
 <hr>
 
 # VMwareWorkstation 25H2
+* 25H2u1
+  * https://github.com/201853910/VMwareWorkstation/releases/download/25H2/VMware-Workstation-Full-25H2u1-25219725.exe
+  * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/25H2/VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle
+  * 
 * 25H2
   * https://github.com/201853910/VMwareWorkstation/releases/download/25H2/VMware-Workstation-Full-25H2-24995812.exe
   * 
